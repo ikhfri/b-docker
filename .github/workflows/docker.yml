@@ -36,4 +36,4 @@ jobs:
         with:
           context: ./backend
           push: true
-          tags: USERNAME/devops-backend:latest
+          tags: ikhfri/devops-backend:latest
