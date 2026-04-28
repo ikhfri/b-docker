@@ -28,7 +28,7 @@ jobs:
           pwd
           ls -lah
           ls -lah backend
-          cat backend/Dockerfile 
+          cat backend/Dockerfile
 
       # 4. build & push image backend 
       - name: Build and Push Backend
